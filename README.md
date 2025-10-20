@@ -1,2 +1,1 @@
-# MyBlazorWebApp
-Ok
+# my-blazorWebApp-WASM
